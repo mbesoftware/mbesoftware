@@ -40,9 +40,3 @@
     <summary>&#127942 <b>GitHub Aktivitesi</b></summary><br/>
 
 ![Veriler](https://metrics.lecoq.io/mbesoftware?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
-
-[![İstatistikler](https://github-readme-stats.vercel.app/api/wakatime?username=mbesoftware&layout=compact)](https://github.com/mbesoftware)
-
-</details>
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=059ccpjdq3ydjcc26x5x7xfmt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=059ccpjdq3ydjcc26x5x7xfmt&redirect=true)
