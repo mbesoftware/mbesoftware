@@ -45,4 +45,4 @@
 
 </details>
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=	059ccpjdq3ydjcc26x5x7xfmt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=	059ccpjdq3ydjcc26x5x7xfmt&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=059ccpjdq3ydjcc26x5x7xfmt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=059ccpjdq3ydjcc26x5x7xfmt&redirect=true)
