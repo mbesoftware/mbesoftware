@@ -1,5 +1,3 @@
-<h2 align="center">Merhaba Ben <br>Burak Eyidoğan</h1>
-<h4 align="center">Sıradan Bir Geliştiriciyim.</h3>
 
 ##
 <p align="center">
